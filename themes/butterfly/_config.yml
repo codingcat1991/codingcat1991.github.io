@@ -18,7 +18,7 @@ menu:
   #胡说: /nonsense/ || fas fa-comment
   留言板: /message/ || fas fa-comment-dots
   友链: /link/ || fas fa-link
-  关于: http://resume.codingcat.net/ || fas fa-heart
+  关于: https://blog.codingcat.net/resume/ || fas fa-heart
 
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: false
