@@ -105,7 +105,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://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@github.com/codingcat1991/codingcat1991.github.io.git
+  repo: git@github.com:codingcat1991/codingcat1991.github.io.git
   branch: release
 
 feed:
