@@ -1,9 +1,0 @@
-#page-header.full_page {
-    height: 100vh;
-    background-attachment: fixed;
-    background: url(/img/cover.jpg);
-}
-#page-header.not-home-page {
-    height: 20rem;
-    background: url(/img/archives.jpg);
-}
