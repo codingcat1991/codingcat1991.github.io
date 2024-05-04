@@ -333,22 +333,4 @@ document.addEventListener('pjax:error', (e) => {
   if (e.request.status === 404) {
     pjax.loadUrl('/404.html')
   }
-})</script><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-    <script>
-        // 定义调用接口的函数
-        function callApi() {
-            fetch('https://www.baidu.com')
-                .then(response => response.json())
-                .then(data => {
-                    console.log(data);
-                    // 处理返回的数据
-                })
-                .catch(error => {
-                    console.error('Error:', error);
-                    // 处理错误情况
-                });
-        }
-
-        // 设置定时器，每5000毫秒（5秒）调用一次接口
-        const intervalId = setInterval(callApi, 5000);
-</script></div></body></html>
+})</script><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div></body></html>
